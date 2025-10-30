@@ -41,4 +41,4 @@ COPY root/ /
 
 # ports and volumes
 EXPOSE 8096 8920
-VOLUME /config
+
